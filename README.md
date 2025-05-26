@@ -1,5 +1,9 @@
 # Hello World!, I'm Subikshan, a Software Engineer 👋🏼:
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Always+learning+new+things;Building+amazing+applications" alt="Typing SVG" />
+</div>
+
 # 🚀 About Me
 
 - 🔭 I'm currently working on **exciting full-stack projects**
